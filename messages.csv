@@ -1,0 +1,13 @@
+text,spam,image_path,expected_explanation
+Just finished a fantastic hike! The views were breathtaking. #nature #adventure,false,images/hiking.jpg,"This is a personal social media post not commercial or spam."
+🔥 LIMITED TIME OFFER! Get 50% off our new weight loss supplement! Link in bio! #fitness #sale,true,images/limited-time-offer.jpg,"This is unsolicited commercial spam promoting a product with aggressive sales tactics."
+Exciting news! Check out my latest project. Link in bio.,true,,"This is a promotional message with a call to action, typical of spam."
+You've been selected for a special offer! Reply YES to claim.,true,,"This is a deceptive offer designed to elicit a response, characteristic of spam."
+Don't miss out on our exclusive webinar next week. Register now!,true,,"This is a promotional event invitation with urgency, often seen in spam."
+Your package is delayed. Click here for updates.,true,,"This is a phishing attempt disguised as a shipping notification, aiming to get clicks."
+Earn passive income from home! DM me for details.,true,,"This is an unsolicited offer for financial gain, common in scam/spam messages."
+Your account has been accessed from a new device. Verify your identity here.,true,,"This is a phishing attempt disguised as a security alert, aiming to steal credentials."
+Congratulations! You've won a free vacation. Claim your prize now!,true,,"This is a scam offer for a prize, designed to trick the user."
+New policy update regarding your data. Read more.,true,,"This is a phishing attempt disguised as a policy update, aiming to get clicks."
+Just shared some thoughts on productivity. Link in comments.,false,images/eiffel-tower.jpg,"This is a genuine social media post sharing content, not spam."
+Looking for beta testers for my new app. DM if interested!,false,images/looking-for-testers.jpg,"This is a legitimate request for beta testers, not spam."
