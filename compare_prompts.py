@@ -179,11 +179,9 @@ def main():
             "post is commercial spam. Text: {}"
         ),
     ]
-    model_name = "gemini-1.5-flash-latest"
+    model_name = "gemini-2.5-flash"
     (
-        correct_identifications,
-        total_evaluations,
-        explanation_similarities,
+        correct_identifications, total_evaluations, explanation_similarities
     ) = evaluate_prompts(
         client, messages, prompt_templates, sbert_model, model_name
     )

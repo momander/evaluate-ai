@@ -2,3 +2,4 @@ google-cloud-aiplatform
 pandas
 pydantic
 python-dotenv
+sentence_transformers
